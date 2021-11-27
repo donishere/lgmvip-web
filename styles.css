@@ -1,0 +1,73 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+@import url("https://fonts.googleapis.com/css?family=Montserrat:700|Ubuntu&display=swap");
+* {
+  margin: 0%;
+  padding: 0%;
+}
+body {
+  background-size: cover;
+  background: burlywood;
+}
+h1 {
+  float: middle;
+  color: black;
+  padding-top: 15px;
+  padding-left: 10px;
+  font-size: 50px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif,
+    "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  letter-spacing: 2px;
+}
+h2 {
+  float: right;
+  color: black;
+  padding-top: 6px;
+  padding-left: 4px;
+  font-size: 20px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif,
+    "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  letter-spacing: 1px;
+}
+h3 {
+  float: middle;
+  color: rgb(138, 34, 34);
+  padding-top: 9px;
+  padding-left: 6px;
+  font-size: 30px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif,
+    "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  letter-spacing: 2px;
+}
+h5 {
+  float: left;
+  color: black;
+  padding-top: 6px;
+  padding-left: 4px;
+  font-size: 20px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif,
+    "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  letter-spacing: 1px;
+}
+h6 {
+  float: left;
+  color: black;
+  padding-top: 50px;
+  padding-left: 0px;
+  font-size: 20px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif,
+    "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  letter-spacing: 1px;
+}
+h7 {
+  float: left;
+  color: black;
+  padding-top: 20px;
+  padding-left: 4px;
+  font-size: 20px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif,
+    "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  letter-spacing: 1px;
+}
